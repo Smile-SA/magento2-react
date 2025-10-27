@@ -1,6 +1,6 @@
 const path = require('path');
 const glob = require('glob');
-const fs = require('fs');
+const fs = require('node:fs');
 const magentoRoot = process.env.MAGENTO_ROOT || __dirname; // Example: /var/www/html
 const magentoTheme = process.env.MAGENTO_THEME || false; // Example: Magento/luma
 

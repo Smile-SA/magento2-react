@@ -23,7 +23,6 @@
         "babel-loader" : "^8.0.6",
         "babel-plugin-graphql-tag" : "^2.5.0",
         "eslint" : "^6.7.1",
-        "fs" : "^0.0.1-security",
         "glob" : "^7.1.6",
         "graphql" : "^14.6.0",
         "graphql-tag" : "^2.10.1",
