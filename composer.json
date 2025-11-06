@@ -1,7 +1,6 @@
 {
   "name": "smile/magento2-react",
   "type": "magento2-component",
-  "version": "16.12.2",
   "license": "OSL-3.0",
   "description": "Module to add React to Magento 2 KO frontend",
   "keywords":[ "composer-installer", "magento"],
